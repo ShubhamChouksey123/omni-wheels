@@ -1,2 +1,2 @@
-# omni-wheels
-Line follower using LSA08 and omni wheel drive
+# Omni-directional Line Follower Robot 
+Code for Line follower using LSA08 on an omni wheel drive
